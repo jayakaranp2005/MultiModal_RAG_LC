@@ -1,0 +1,7 @@
+chroma_db
+__pycache__
+venv
+docstore.pkl
+data/
+indexed_pdfs.json
+.env
