@@ -4,4 +4,4 @@ venv
 docstore.pkl
 data/
 indexed_pdfs.json
-.env
+.env.env
