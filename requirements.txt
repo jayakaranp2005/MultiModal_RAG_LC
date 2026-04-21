@@ -9,3 +9,6 @@ lxml
 python-dotenv
 rich
 tqdm
+fastapi
+uvicorn
+python-multipart
