@@ -28,15 +28,5 @@ Create a `.env` file (do **not** commit secrets):
 OPENAI_API_KEY=your_key_here
 ```
 
-## Project structure
-This will vary as the project evolves. Common folders you may see:
-- `data/` – source documents
-- `src/` – application code
-- `notebooks/` – experiments
-
-## Notes
-- Keep large datasets and generated vector indexes out of git.
-- Add a license if you plan to share or reuse the code.
-
-## License
-No license specified yet.
+Just enjoy it 
+:)
