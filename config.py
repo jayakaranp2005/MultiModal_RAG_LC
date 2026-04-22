@@ -28,7 +28,7 @@ OUTPUT_PATH: str = os.getenv(
 INDEXED_PDFS_PATH: str = str(PROJECT_ROOT / "indexed_pdfs.json")
 
 # ── Model names ─────────────────────────────────────────────────────────────
-GEMINI_MODEL: str = "gemini-2.0-flash"
+GEMINI_MODEL: str = "gemini-2.5-flash"
 EMBEDDING_MODEL: str = "models/gemini-embedding-001"
 
 # ── Summarisation settings ──────────────────────────────────────────────────
